@@ -1,1 +1,2 @@
-# Topicos_Avan-ados_1
+# Topicos_Avançados_1
+Repositório para a matéria de Tópicos Avançados 1
