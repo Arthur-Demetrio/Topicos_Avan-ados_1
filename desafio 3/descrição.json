@@ -1,0 +1,10 @@
+{
+  "name": "central-relatorios",
+  "version": "1.0.0",
+  "description": "Central modular de relatórios acadêmicos",
+  "type": "module",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  }
+}
