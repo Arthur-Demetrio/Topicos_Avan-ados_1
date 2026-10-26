@@ -1,0 +1,16 @@
+{
+  "name": "cadastro-academico-ts",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Cadastro acadêmico (estudantes, turmas e chamados) migrado para TypeScript estrito",
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "build": "tsc",
+    "start": "node dist/app.js"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.43",
+    "typescript": "^5.9.3"
+  }
+}
